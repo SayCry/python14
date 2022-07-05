@@ -1,0 +1,12 @@
+print("hello M.6/14")
+print("Name Chayakorn")
+print("Lastname Yangtrakul")
+print("Nickname Mark")
+print("My birthday is 25/09/47")
+print("age : 17")
+print("sex : male")
+print("Contact ; 082-974-5616")
+print("My hobby is read novel")
+print("My favorite color is gray")
+print("My favorite pet is Sucata tortoise")
+#ชื่อ นายชยากร หยางตระกูล  เลขที่ 4 ม.6/14
